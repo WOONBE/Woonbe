@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> My tech stack </h2>
-
-![Java badge] (https://img.shields.io/badge/-Java-blue)
+<h2> 💻 My tech stack </h2>
+<p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a></p>
