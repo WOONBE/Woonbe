@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <h2> My tech stack </h2>
 
-https://img.shields.io/badge/-Java-blue
+![Java badge] (https://img.shields.io/badge/-Java-blue)
